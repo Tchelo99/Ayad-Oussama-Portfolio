@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision on Ayad Oussama</title>
+    <link>https://tchelo99.github.io/Ayad-Oussama-Portfolio/tags/computer-vision/</link>
+    <description>Recent content in Computer Vision on Ayad Oussama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://tchelo99.github.io/Ayad-Oussama-Portfolio/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project V : Trashcan Full Detection</title>
+      <link>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-5/</guid>
+      <description>In a world increasingly focused on sustainability and efficient waste management, the Trashcan Full Detection project presents an innovative AI-based solution. This application utilizes live camera feeds to determine the fullness of trashcans, enabling timely waste collection and reducing overflow incidents.&#xA;By employing a tech stack that includes Python, OpenCV, and Deep Learning, the project aims to optimize waste management processes. The integration of computer vision techniques allows for accurate real-time detection, while deep learning algorithms enhance the application&amp;rsquo;s ability to analyze visual data effectively.</description>
+    </item>
+  </channel>
+</rss>

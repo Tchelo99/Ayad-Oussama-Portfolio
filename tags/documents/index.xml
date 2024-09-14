@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documents on Ayad Oussama</title>
+    <link>https://tchelo99.github.io/Ayad-Oussama-Portfolio/tags/documents/</link>
+    <description>Recent content in Documents on Ayad Oussama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://tchelo99.github.io/Ayad-Oussama-Portfolio/tags/documents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I : RAG Application for Arabic Legal Documents</title>
+      <link>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-1/</guid>
+      <description>This project showcases a Retrieval-Augmented Generation (RAG) application specifically designed for querying Arabic legal documents. Utilizing advanced techniques, it enables efficient information retrieval and contextual understanding.&#xA;Key features include:&#xA;Arabic Language Support: Handles queries and provides responses in Arabic, ensuring relevance to users in legal contexts. Efficient Document Retrieval: Implements sophisticated algorithms for quick and accurate access to legal texts. Custom Prompting: Utilizes tailored prompts to enhance interaction with users, making the tool more intuitive for legal inquiries.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ayad Oussama</title>
+    <link>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/</link>
+    <description>Recent content in Projects on Ayad Oussama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Sep 2024 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I : RAG Application for Arabic Legal Documents</title>
+      <link>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-1/</guid>
+      <description>This project showcases a Retrieval-Augmented Generation (RAG) application specifically designed for querying Arabic legal documents. Utilizing advanced techniques, it enables efficient information retrieval and contextual understanding.&#xA;Key features include:&#xA;Arabic Language Support: Handles queries and provides responses in Arabic, ensuring relevance to users in legal contexts. Efficient Document Retrieval: Implements sophisticated algorithms for quick and accurate access to legal texts. Custom Prompting: Utilizes tailored prompts to enhance interaction with users, making the tool more intuitive for legal inquiries.</description>
+    </item>
+    <item>
+      <title>Project II : Deep Learning for Household Energy Management</title>
+      <link>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-2/</guid>
+      <description>As we navigate the complexities of modern energy consumption, understanding how households utilize electricity is paramount. The household sector significantly contributes to overall energy demand, and optimizing its usage is crucial for both economic and environmental sustainability.&#xA;This project focuses on energy disaggregation, a technique that breaks down a household&amp;rsquo;s total electricity consumption into individual appliance-level usage. By doing so, we gain deeper insights into energy consumption patterns, which enables better management and efficiency improvements.</description>
+    </item>
+    <item>
+      <title>project III: Financial Advisor</title>
+      <link>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-3/</guid>
+      <description>Financial Advisor is an innovative AI-powered application designed to provide personalized investment and savings advice tailored to individual user needs. Leveraging advanced machine learning algorithms, the app analyzes user inputs such as financial goals, risk tolerance, and current investment portfolios to deliver customized recommendations.&#xA;With a user-friendly interface built on Flask and powered by Python and LLM&amp;rsquo;s, the app simplifies the complexities of personal finance. Users can easily input their financial data, explore various investment strategies, and receive actionable insights to optimize their savings and investment plans.</description>
+    </item>
+    <item>
+      <title>Project IV : Biomedical Named Entity Recognition (NER)</title>
+      <link>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-4/</guid>
+      <description>In the ever-evolving field of biomedical research, the extraction of crucial information from scientific texts has become increasingly vital. The Biomedical Named Entity Recognition (NER) project focuses on leveraging state-of-the-art models, specifically BERT and BioBERT, to enhance the identification of named entities in biomedical literature.&#xA;By fine-tuning these powerful models, our goal is to improve the accuracy and efficiency of medical information extraction, facilitating researchers and practitioners in quickly obtaining relevant data.</description>
+    </item>
+    <item>
+      <title>Project V : Trashcan Full Detection</title>
+      <link>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tchelo99.github.io/Ayad-Oussama-Portfolio/post/project-5/</guid>
+      <description>In a world increasingly focused on sustainability and efficient waste management, the Trashcan Full Detection project presents an innovative AI-based solution. This application utilizes live camera feeds to determine the fullness of trashcans, enabling timely waste collection and reducing overflow incidents.&#xA;By employing a tech stack that includes Python, OpenCV, and Deep Learning, the project aims to optimize waste management processes. The integration of computer vision techniques allows for accurate real-time detection, while deep learning algorithms enhance the application&amp;rsquo;s ability to analyze visual data effectively.</description>
+    </item>
+  </channel>
+</rss>
